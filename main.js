@@ -76,5 +76,9 @@ for(let i=0;i <botoes.length;i++){
         }
 
         botoes[i].classList.add("ativo");
+        <script src="main.js"></script>
+        const botoes = document.querySelectorAll(".botao");
+        console.log(botoes)
+        
     }
 }
